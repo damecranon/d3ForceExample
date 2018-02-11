@@ -1,5 +1,13 @@
-.nodes circle {
+.node circle {
     stroke: black	;
     stroke-width: 0px;
 }
 
+g.node circle {
+    stroke: #fff;
+    stroke-width: 1.5px;
+}
+
+.parentg{}
+
+.nodes{}
